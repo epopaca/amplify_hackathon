@@ -34,4 +34,5 @@
   >裏返しを認めますか？(y/n): n 
     
 ## 実行結果
-  ![result](./result.png)
+  ![result](./result.png)  
+  *同じ数字は1枚のタイルを表す 
